@@ -3,6 +3,9 @@
 The Fibonacci sequence is a series of numbers where a number is found by adding up the two numbers before it.
 We will now calculate this using Python.
 
+# Required Output
+0,1,1,2,3,5,8,13
+
 Code for calulating series is written in fibonacci.py
 
 ```
