@@ -23,7 +23,7 @@ if __name__ == '__main__' : main()
 
 On execution of fibonacci.py, Output is 
 ```
-C:\Users\visamadh\git\fibonacci>python fibonacci.py
+C:\Users\vikas\git\fibonacci>python fibonacci.py
 [0, 1, 1, 2, 3, 5, 8, 13]
 ```
 
@@ -46,7 +46,7 @@ if __name__ == '__main__' : unittest.main()
 ```
 On execution of fibonacciUnitTest.py, Output is
 ```
-C:\Users\visamadh\git\fibonacci>python fibonacciUnitTest.py
+C:\Users\vikas\git\fibonacci>python fibonacciUnitTest.py
 
 Test Series 30
 .
