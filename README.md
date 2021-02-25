@@ -39,7 +39,7 @@ class TestFibonacciFunctions(unittest.TestCase):
 
 
     def test_series_30(self):
-        print('\nTest Series 30')
+        print('\nTest in Progress')
         wanted_result = [0,1,1,2,3,5,8,13]
         test_result = fibonacci.fib2(30)
         self.assertEqual(wanted_result,test_result)
@@ -51,7 +51,7 @@ On execution of fibonacciUnitTest.py, Output is
 ```
 C:\Users\vikas\git\fibonacci>python fibonacciUnitTest.py
 
-Test Series 30
+Test in Progress
 .
 ----------------------------------------------------------------------
 Ran 1 test in 0.001s
